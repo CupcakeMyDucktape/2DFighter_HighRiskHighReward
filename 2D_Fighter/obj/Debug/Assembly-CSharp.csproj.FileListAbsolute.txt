@@ -1,0 +1,2 @@
+D:\Users\julia\Documents\My Games\SelfMade\2DFighter_HighRiskHighReward\2D_Fighter\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Users\julia\Documents\My Games\SelfMade\2DFighter_HighRiskHighReward\2D_Fighter\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
