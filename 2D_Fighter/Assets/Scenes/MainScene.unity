@@ -1712,6 +1712,7 @@ MonoBehaviour:
   playerHealth: 0
   playerSpeed: 1
   playerSprintSpeed: 2
+  animator: {fileID: 1407967488}
 --- !u!95 &1407967488
 Animator:
   serializedVersion: 3
@@ -1722,7 +1723,7 @@ Animator:
   m_GameObject: {fileID: 1407967482}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b4ed2c193d8fe924193b8fef6eb685ed, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
